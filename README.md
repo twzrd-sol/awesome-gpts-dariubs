@@ -6,6 +6,7 @@ A curated list of awesome GPTs
 - [Education](#education)
 - [For Developers](#for-developers)
 - [For Fun](#for-fun)
+- **[TWZRD Agent Intel](https://intel.twzrd.xyz)** - Solana-native x402 MCP server for AI agent trust scoring. Free tools: `score_agent(wallet)`, `preflight_check(wallet)`. Paid: `get_trust_receipt` via HTTP 402 + USDC on Solana. MCP: `https://intel.twzrd.xyz/mcp`
 - [Lifestyle](#lifestyle)
 - [Productivity](#productivity)
 - [Writing](#writing)
